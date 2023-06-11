@@ -4,7 +4,7 @@
 This project demonstrates progressive web applications using Webpack and Cacheing to improve performance.  
 ## Usage
 AS A USER I want to be able to store and edit text in an application
- <img src="Screenshot.png" alt="screenshot of application">
+ <img src="Screenshotofapp.png" alt="screenshot of application">
  <!-- <a href= "https://drive.google.com/file/d/1mIhwfCKPpSGla_orYhxqc2HyiJb2Qs4o/view"> Link for video Explanation </a> -->
 
 
